@@ -75,8 +75,6 @@ I'm a developer passionate about building things that interact with the real wor
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
-
 📫 Reach me on [LinkedIn](https://linkedin.com/in/victor-hugo-camurça)
 
 </div>
