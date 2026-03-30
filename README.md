@@ -54,13 +54,17 @@ I'm a developer passionate about building things that interact with the real wor
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills & Focus Areas
 
 <div align="center">
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waxxy1404&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waxxy1404&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+| Area | Technologies |
+|---|---|
+| 🎥 Computer Vision | Python · OpenCV · NumPy · CoppeliaSim |
+| 🔌 Embedded Systems | C++ · Arduino · ESP8266 · I2C · Sensors |
+| 🤖 Robotics | Pioneer P3-DX · Differential Drive · Visual Control |
+| 🐍 Programming | Python · C · C++ |
+| 🛠️ Tools | Git · Linux · Arduino IDE · Serial Monitor |
 
 </div>
 
