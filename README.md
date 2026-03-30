@@ -17,7 +17,7 @@ I'm a developer passionate about building things that interact with the real wor
 
 - 🎓 Completing a Bachelors degree in **Biomedical Engineering** at **Federal University of Pernambuco**.
 - 🎓 Currently completing **CS50x** — Harvard's Introduction to Computer Science
-- 🔬 Working with **Computer Vision** and **Image Processing** (UFPE)
+- 🔬 Working with **Computer Vision**, **Image Processing** (UFPE) and **Bio 3D printing**
 - 🤖 Building projects with **Arduino** and **C++** for embedded applications
 - 🐍 Developing automation tools with **Python**
 - 🇧🇷 Based in Brazil 
