@@ -20,7 +20,7 @@ I'm a developer passionate about building things that interact with the real wor
 - 🔬 Working with **Computer Vision** and **Image Processing** (UFPE)
 - 🤖 Building projects with **Arduino** and **C++** for embedded applications
 - 🐍 Developing automation tools with **Python**
-- 🇧🇷 Based in Brazil · 🇨🇦 Future plans: Canada
+- 🇧🇷 Based in Brazil 
 
 ---
 
