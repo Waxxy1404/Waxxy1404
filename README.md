@@ -15,7 +15,7 @@
 
 I'm a developer passionate about building things that interact with the real world — from image processing algorithms to embedded systems and automation projects. My work sits at the intersection of hardware and software, where code drives physical outcomes.
 
-- 🎓 Completing a Bachelors degree in Biomedical Engineering at Federal University of Pernambuco.
+- 🎓 Completing a Bachelors degree in **Biomedical Engineering** at **Federal University of Pernambuco**.
 - 🎓 Currently completing **CS50x** — Harvard's Introduction to Computer Science
 - 🔬 Working with **Computer Vision** and **Image Processing** (UFPE)
 - 🤖 Building projects with **Arduino** and **C++** for embedded applications
