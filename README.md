@@ -46,8 +46,8 @@ I'm a developer passionate about building things that interact with the real wor
 | Project | Description | Stack |
 |---|---|---|
 | [CS50x](https://github.com/Waxxy1404/CS50x) | Coursework and projects from Harvard's CS50x | C, Python |
-| [Image Processing – UFPE](https://github.com/Waxxy1404/Image-Processing-UFPE) | Image processing projects developed at university | Python, OpenCV |
-| *Arduino Projects* | Embedded systems and automation with microcontrollers | C++, Arduino |
+| [Image Processing – UFPE](https://github.com/Waxxy1404/line-following-robot) | Image processing projects developed at university | Python, OpenCV |
+| [Arduino Projects](https://github.com/Waxxy1404/heart-rate-alarm-system) | Embedded systems and automation with microcontrollers | C++, Arduino |
 | *Python Automation* | Scripts and tools for task automation | Python |
 
 > 🚧 More projects being added — stay tuned!
